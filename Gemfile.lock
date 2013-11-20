@@ -1,0 +1,19 @@
+GIT
+  remote: https://github.com/christianhellsten/big-xml
+  revision: b0f67651dd72f476301a89ec652849435d8ffceb
+  specs:
+    big_xml (1.0.0)
+      nokogiri
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile (0.5.1)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  big_xml!
